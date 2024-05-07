@@ -1,0 +1,9 @@
+public class HelloWorld{
+    public static void main(String[] args){
+        System.out.println("Hello, CDAC");
+        System.out.println("We are trying Docker");
+        System.out.println("From CDAC ACTS DAC");
+        System.out.println("Does this appear in the output???");
+        System.out.println("will we see this???");
+    }
+}
